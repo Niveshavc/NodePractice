@@ -1,0 +1,27 @@
+{
+  "name": "myprojects",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Niveshavc/NodePractice#readme",
+  "bugs": {
+    "url": "https://github.com/Niveshavc/NodePractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niveshavc/NodePractice.git"
+  },
+  "license": "ISC",
+  "author": "Nivesh",
+  "type": "commonjs",
+  "main": "Ap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Ap.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
